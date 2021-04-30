@@ -27,3 +27,5 @@ Si colocas más de un archivo en esa carpeta, EDDI los leerá y podrás seleccio
 ## Enlaces de interés
 
 - Proyecto EDDI: https://github.com/EDCD/EDDI
+- Hilo original de Altair28: https://forums.frontier.co.uk/threads/voiceattack-eddi-en-espanol.332163/
+- Instalador de Hoksilato2 en el que se incluye Shirka: https://github.com/hoksilato2/VAHoksiPack
