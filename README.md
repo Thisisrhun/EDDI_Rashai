@@ -8,9 +8,9 @@ EDDI aparece como app compañera para Elite Dangerous mediante la cual es posibl
 
 ### Lore
 
-Rashai nace como rama de la personalidad Shirka, originariamente creada por el CMDT ALTAIR28 para los comandantes de habla hispana de la Burbuja. La facción anarquista Explorers of the Anarchy recuperó un archivo de datos sin encriptar de Shirka y desarrolló la personalidad Rashai, publicando su código para hacerla accesible y modificable por todos los comandantes de la galaxia.
+Rashai nace como rama de la personalidad Shirka, originariamente creada por el CMDT ALTAIR28 para los comandantes de habla hispana de la Burbuja. La facción anarquista Explorers of the Anarchy recuperó un archivo de datos sin encriptar de Shirka y desarrolló la personalidad Rashai, publicando su código para hacerla accesible y modificable por todos los comandantes de la galaxia. Rashai es el acrónimo de 'Rooted Anarchist Ship Artificial Intelligence'.
 
-Rashai toma como base el código de Shirka y lo expande, desalineandose de los ejes de poder de la galaxia para ser más accesible.
+Rashai toma como base el código de Shirka y lo expande, desalineandose de los ejes de poder de la galaxia y proporcionando una plataforma común contributiva para ser más accesible.
 
 ## Instalación
 
